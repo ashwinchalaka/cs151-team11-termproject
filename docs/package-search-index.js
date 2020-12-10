@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"cs151Project"},{"l":"cs151Project.controllers"},{"l":"cs151Project.controllers.messagequeue"},{"l":"cs151Project.models"},{"l":"cs151Project.views"}]
